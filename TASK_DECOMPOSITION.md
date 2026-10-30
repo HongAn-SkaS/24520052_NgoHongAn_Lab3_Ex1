@@ -1,4 +1,4 @@
-# Task Composition – Exercise 1: Semantic Engineer & Pro-Gamer Profile Card
+# Task Decomposition – Exercise 1: Semantic Engineer & Pro-Gamer Profile Card
 
 ## 1. Project Overview
 
